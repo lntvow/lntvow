@@ -1,4 +1,4 @@
-<img  width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=lntvow&theme=github-compact&day=90" />
+<img  width="99.9%" src="https://github-readme-activity-graph.vercel.app/graph?username=lntvow&theme=github-compact&days=90" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lntvow/lntvow/output/github-contribution-grid-snake-dark.svg" />
