@@ -28,6 +28,6 @@ jobs:
           build_dir: dist
           keep_history: true
           committer: lntvow@qq.com
-          author: github-actions[bot]
+          author: lntvow
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
