@@ -27,7 +27,6 @@ jobs:
           target_branch: output
           build_dir: dist
           keep_history: true
-          committer: lntvow@qq.com
           author: lntvow
         env:
           GITHUB_TOKEN: ${{ secrets.PUSH_TOKEN }}
